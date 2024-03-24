@@ -79,7 +79,7 @@ export default function SdkDeploy({ }) {
                 primary_sale_recipient,
                 symbol,
                 description,
-                platform_fee_recipient: "0xBE97F922f2293e0601ff7C30c101F29fFC309084",
+                platform_fee_recipient: "0xDcD0157ba94D2E97EAC3EAb695d7Ed00A98bAd88",
                 platform_fee_basis_points: 5
             });
 
